@@ -20,7 +20,7 @@ All code is written in Luau and up-to-date with the latest technology in Roblox,
 
 ## Documentation
 
-More information about Weaver and its usage can be found in the [documentation](https://paracosm-daemon.github.io/Weaver/).
+More information about Weaver and its usage can be found in the [documentation](https://starveldt.github.io/Weaver/).
 
 ## Credits
 
