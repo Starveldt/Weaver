@@ -1,13 +1,13 @@
 <div align="center">
-    <a href="https://paracosm-daemon.github.io/Weaver"><img src="assets/logo/LOGO512ROUND.png" alt="Weaver" height="200" /></a>
+    <a href="https://starveldt.github.io/Weaver"><img src="assets/logo/LOGO512ROUND.png" alt="Weaver" height="200" /></a>
 </div>
 
 <div>&nbsp;</div>
 
 <div align="center">
-    <a href="https://github.com/Paracosm-Daemon/Weaver/actions/workflows/publish.yaml"><img src="https://github.com/Paracosm-Daemon/Weaver/actions/workflows/publish.yaml/badge.svg" alt="Publish" /></a>
-    <a href="https://github.com/Paracosm-Daemon/Weaver/actions/workflows/ci.yaml"><img src="https://github.com/Paracosm-Daemon/Weaver/actions/workflows/ci.yaml/badge.svg" alt="CI" /></a>
-    <a href="https://github.com/Paracosm-Daemon/Weaver/actions/workflows/docs.yaml"><img src="https://github.com/Paracosm-Daemon/Weaver/actions/workflows/docs.yaml/badge.svg" alt="Documentation" /></a>
+    <a href="https://github.com/Starveldt/Weaver/actions/workflows/publish.yaml"><img src="https://github.com/Starveldt/Weaver/actions/workflows/publish.yaml/badge.svg" alt="Publish" /></a>
+    <a href="https://github.com/Starveldt/Weaver/actions/workflows/ci.yaml"><img src="https://github.com/Starveldt/Weaver/actions/workflows/ci.yaml/badge.svg" alt="CI" /></a>
+    <a href="https://github.com/Starveldt/Weaver/actions/workflows/docs.yaml"><img src="https://github.com/Starveldt/Weaver/actions/workflows/docs.yaml/badge.svg" alt="Documentation" /></a>
 </div>
 
 # Weaver
